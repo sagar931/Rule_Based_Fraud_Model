@@ -198,8 +198,8 @@ numpy
 ### Setup
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/fraud-detection-rules.git
-cd fraud-detection-rules
+git clone https://github.com/sagar931/Rule_Based_Fraud_Model.git
+cd Rule_Based_Fraud_Model
 
 # Install dependencies
 pip install -r requirements.txt
